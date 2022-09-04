@@ -5,10 +5,6 @@
  */
 package serverwofacade;
 
-/**
- *
- * @author sornp
- */
 public class FacadeDesignPattern {
     public void start(){
         ScheduleServer obj1 = new ScheduleServer();
